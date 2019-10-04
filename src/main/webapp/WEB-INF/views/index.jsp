@@ -45,7 +45,7 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a>
         <div class="text">
-          <h1>Awesome!</h1>
+          <h1>Brilliant!</h1>
           <h2>Welcome to Jira and CodeStar</h2>
         </div>
       </div>
